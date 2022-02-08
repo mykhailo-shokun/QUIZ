@@ -155,21 +155,6 @@ body {
 .quiz-list label:hover {
   background-color: #fff5ee;
 }
-.quiz-list label.correct {
-  color: #24904d;
-  font-weight: 600;
-}
-.quiz-list label.disabled {
-  cursor: no-drop;
-}
-.quiz-list label.disabled:hover {
-  cursor: no-drop;
-  background-color: transparent;
-}
-.quiz-list label.wrong {
-  color: #da3b3b;
-  font-weight: 600;
-}
 .quiz-list input[type=radio] {
   margin-right: 10px;
 }

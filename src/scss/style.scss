@@ -65,21 +65,6 @@ body {
             background-color: #fff5ee;
         }
     }
-    label.correct {
-        color: #24904d;
-        font-weight: 600;
-    }
-    label.disabled {
-        cursor: no-drop;
-        &:hover {
-            cursor: no-drop;
-            background-color: transparent;
-        }
-    }
-    label.wrong {
-        color: #da3b3b;
-        font-weight: 600;
-    }
     input[type="radio"] {
         margin-right: 10px;
     }
